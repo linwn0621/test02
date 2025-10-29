@@ -2,6 +2,7 @@
     <div class="">
         测试合并
         110
+        78878
     </div>
 </template>
 
